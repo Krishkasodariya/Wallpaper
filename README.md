@@ -48,7 +48,7 @@ To run the app locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/flutter_wallpaper_app.git
+git clone https://github.com/yourusername/Wallpaper.git
 
 # Navigate to the project folder
 cd flutter_wallpaper_app
