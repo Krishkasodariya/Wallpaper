@@ -1,16 +1,60 @@
-# wallpaper
+<h1>🖼️ Wallpaper App</h1>
 
-A new Flutter project.
+### 🌟 Explore, Preview, and Set Beautiful Wallpapers with Ease
 
-## Getting Started
+<p>
+  A visually stunning Flutter app that lets users browse, preview, and apply both static and live wallpapers. With a clean light/dark theme, smart search, categorized content, and user-interaction features like like/unlike, sharing, and rating — this app delivers a complete personalization experience.
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/user-attachments/assets/0f3ea546-d892-4dac-97c8-5f7561e66774" width="600" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Key Features
+
+- 🖼️ View **wallpapers** and **live wallpapers**
+- 🌙 Light mode & dark mode support
+- 🔍 Search wallpapers by name or tag
+- 🗂️ Browse wallpapers by categories
+- 📤 Share wallpapers with others
+- 💾 Download wallpapers locally
+- 👁️ Full-screen **preview** before setting
+- 🎯 Set as **home screen**, **lock screen**, or both
+- ❤️ Like / 💔 Unlike wallpapers to save favorites
+- ⭐ Rate wallpapers you love
+
+---
+
+## 🛠️ Tech Stack
+
+| Category            | Tools / Skills                                         |
+|---------------------|--------------------------------------------------------|
+| **Language**         | Dart                                                   |
+| **Framework**        | Flutter                                                |
+| **UI**               | Light & Dark Theme, Hero Animations                   |
+| **Wallpaper APIs**   | Custom / Pexels / Unsplash (optional integration)     |
+| **State Management** | GetX / Provider                                       |
+| **Features**         | Live Wallpapers, Preview, Share, Rate, Download       |
+
+---
+
+## 🧑‍💻 Getting Started
+
+To run the app locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/flutter_wallpaper_app.git
+
+# Navigate to the project folder
+cd flutter_wallpaper_app
+
+# Get the dependencies
+flutter pub get
+
+# Run the app
+flutter run
